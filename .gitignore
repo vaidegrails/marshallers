@@ -1,0 +1,11 @@
+--Ignore IntelliJ files
+marshallers.iml
+.idea
+--Ignore Gradle files
+gradle
+gradlew*
+.gradle
+--Ignore build files
+build
+--Ignora generated Grails files
+.asscache
